@@ -27,4 +27,4 @@ I'm a UIUC student. I build software products and work on AI research and spatia
 
 ## Find me
 
-[Website](https://ericxu-0805.github.io) · [LinkedIn](https://www.linkedin.com/in/guoyi-eric-xu) · [Google Scholar](https://scholar.google.com/citations?user=0UGotE4AAAAJ) · [ORCID](https://orcid.org/0009-0000-3581-5996) · [X](https://x.com/guoyi_xu46651) · [Instagram](https://www.instagram.com/xxuguoyi/) · [Threads](https://www.threads.com/@xxuguoyi) · [Facebook](https://www.facebook.com/people/Guoyi-Xu/pfbid02m7mMPhcyxjWePAJxXKZ6sER4ZqVi49oNPgX2WoGvfRnmHzG1jioJSCEctPimuoRVl/)
+[Website](https://ericxu-0805.github.io) · [LinkedIn](https://www.linkedin.com/in/guoyi-eric-xu) · [Google Scholar](https://scholar.google.com/citations?user=0UGotE4AAAAJ) · [ORCID](https://orcid.org/0009-0000-3581-5996) · [X](https://x.com/guoyi_eric_xu) · [Instagram](https://www.instagram.com/xxuguoyi/) · [Threads](https://www.threads.com/@xxuguoyi) · [Facebook](https://www.facebook.com/people/Guoyi-Xu/pfbid02m7mMPhcyxjWePAJxXKZ6sER4ZqVi49oNPgX2WoGvfRnmHzG1jioJSCEctPimuoRVl/)
