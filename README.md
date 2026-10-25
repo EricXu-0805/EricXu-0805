@@ -19,7 +19,7 @@ I'm a UIUC student. I build software products and work on AI research and spatia
 
 ## Also
 
-- Previously AI Agent Intern at R.R. Donnelley.
+- Previously Hardware Engineering & AI Agent Intern at R.R. Donnelley.
 - A communication-research platform, in development and internal validation.
 - SMA API-platform design.
 - Vice President of [CAACI](https://caaciorg.com/about/) (Chinese American Association of Central Illinois), supporting its website and technology.
